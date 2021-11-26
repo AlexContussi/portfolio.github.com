@@ -1,5 +1,5 @@
 # Mon Portfolio étudiant en BTS SIO 
-## Objectifs : ##
+## Objectifs : 
 1.Mettre en oeuvre les technologies web pour créer et héberger mon portfolio
 
 * **NetBeans**: Environnement de d"veloppement intégré (IDE) utilisé pour ce projet 
