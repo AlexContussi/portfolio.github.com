@@ -1,7 +1,7 @@
 # Mon Portfolio étudiant en BTS SIO 
 ## Objectifs : 
 1.Mettre en oeuvre les technologies web pour créer et héberger mon portfolio
-[![un logo](https://fr.wikipedia.org/wiki/NetBeans#/media/Fichier:Apache_NetBeans_Logo.svg)]
+ [![un logo](https://fr.wikipedia.org/wiki/NetBeans#/media/Fichier:Apache_NetBeans_Logo.svg)]
 * **NetBeans**: Environnement de d"veloppement intégré (IDE) utilisé pour ce projet 
 * **Html**: Langage de description utilisé pour concevoir les pages web 
 * **CSS**: Langage de sttyle utilisé pour mettre en forme les pages web 
